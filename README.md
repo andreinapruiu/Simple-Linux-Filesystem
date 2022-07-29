@@ -38,6 +38,8 @@ our code is very easy to understand
 
 # Commentaries:
 
+* Other details about the homework can be seen in the [html](https://github.com/andreinapruiu/Simple-Linux-Filesystem/blob/d65bb3ea7e8a48f23bf30f19a7b4be3cbc501e8e/Tema%203%20-%20Simple%20Linux%20File%20System%20%5BCS%20Open%20CourseWare%5D.html) file attached in the repo.
+
 * Although there is always room for improvement, we honestly believe that
 we did our best to be as efficient as possible, we tried avoiding duplicated
 code, so we added extra functions to facilitate the process.
