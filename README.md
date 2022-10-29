@@ -1,7 +1,7 @@
 &copy; 2022 Andrei Napruiu & Andra Stoica 
 (napruiuandrei@gmail.com & andrastoica1204@gmail.com)
 
-# Simple Linux FileSystem - Homework 3
+# Simple Linux FileSystem
 
 # Contents:
 1. [Short Description](#description)
@@ -37,8 +37,6 @@ are freed correctly or only to print the absolute path to a file/folder.
 our code is very easy to understand
 
 # Commentaries:
-
-* Other details about the homework can be seen in the [html](https://github.com/andreinapruiu/SD-Homeworks/blob/3dc34dfa008a2bddf6c5883d6ff04dd3bbad19d0/Tema%203%20-%20Simple%20Linux%20File%20System%20%5BCS%20Open%20CourseWare%5D.html) file attached in the repo.
 
 * Although there is always room for improvement, we honestly believe that
 we did our best to be as efficient as possible, we tried avoiding duplicated
